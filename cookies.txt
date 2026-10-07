@@ -1,6 +1,6 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
-www.heartavenueassociation.com	TRUE	/	FALSE	1999999999	JWSESSION	ac8d204cfdb8864fe8104a3a920d4142
+www.heartavenueassociation.com	TRUE	/	FALSE	1999999999	JWSESSION	9e619064b229af2ff622a3397d9c345c
 www.heartavenueassociation.com	TRUE	/	FALSE	1999999999	samesite	lax
-www.heartavenueassociation.com	TRUE	/	FALSE	1999999999	JwStickySession	hNTZ8crDS5CfwtGPXhjR1Rta2vz1SAU6
+www.heartavenueassociation.com	TRUE	/	FALSE	1999999999	JwStickySession	GVgVActBrHW15hdrrzL2qYu3R8Rbrjc9
 
